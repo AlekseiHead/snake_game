@@ -1,0 +1,1 @@
+Handmade game "Snake" in HTML and JS.
